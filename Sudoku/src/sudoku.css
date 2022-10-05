@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.AllInputs{
+    display: flex;
+}
+.wrapper{
+    width: 185px;
+    border: 2px solid black;
+}
+.fv{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+}
+.Inputs{
+    width: 20px;
+    height: 20px;
+
+}
